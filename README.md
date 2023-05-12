@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Variya</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">Mobile app developer with experience in application design, installation, testing, and maintenance. I am also familiar with Test-flight, bundle, apk, app store</h3>
 
 
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **variyarahul6677@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-variya-236605189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-variya-236605189" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9819071/rahul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9819071/rahul-variya" height="30" width="40" /></a>
