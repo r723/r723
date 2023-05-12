@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Android , java , dart**
+- 💬 Ask me about **Android , java , flutter, firebase, testfairy, dart, figma to flutter**
 
 - 📫 How to reach me **variyarahul6677@gmail.com**
 
