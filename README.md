@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Android , Java , Kotlin , iOS , Flutter**
+- 💬 Ask me about **Android, Java, Kotlin, iOS, Flutter**
 
 - 📫 How to reach me **variyarahul6677@gmail.com**
 
