@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **variyarahul6677@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+  
 
 <p align="left">
 
